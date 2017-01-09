@@ -1,1 +1,2 @@
 vim config -> http://blog.csdn.net/doc_sgl/article/details/47205779
+vim exercis -> http://www.csdn.net/article/2011-09-08/304226?locationNum=12&fps=1
