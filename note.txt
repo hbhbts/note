@@ -1,2 +1,3 @@
 vim config -> http://blog.csdn.net/doc_sgl/article/details/47205779
 vim exercise -> http://www.csdn.net/article/2011-09-08/304226?locationNum=12&fps=1
+visualbox increase disk -> http://blog.sina.com.cn/s/blog_484d87770101olzr.html
