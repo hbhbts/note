@@ -3,3 +3,4 @@ vim exercise -> http://www.csdn.net/article/2011-09-08/304226?locationNum=12&fps
 visualbox increase disk -> http://blog.sina.com.cn/s/blog_484d87770101olzr.html
 github open source c code -> https://my.oschina.net/zhoukuo/blog/335788
 ctags -> http://www.cnblogs.com/coolworld/p/5602589.html
+tcp/ip socket -> http://blog.csdn.net/piaojun_pj/article/details/5920888
